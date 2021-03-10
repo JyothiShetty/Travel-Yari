@@ -1,3 +1,3 @@
 # Travel-Yari
 
-A Responsive Traveling Website
+A Responsive Single page Website.
